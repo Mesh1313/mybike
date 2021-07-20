@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "redux-logger": "^3.0.6",
     "redux-react-hook": "^3.3.2",
     "redux-thunk": "^2.3.0"
